@@ -11,3 +11,6 @@
     - [Files](talks/2-Cosmology_from_Home-Remote-Jun22)  
     - _Remote_
     - _June 2022_ 
+
+--- 
+Inspired by https://github.com/williamjameshandley/talks
