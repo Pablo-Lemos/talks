@@ -6,6 +6,8 @@
     - _Institut Pascal Paris-Saclay_
     - _April 2022_ 
     - [Paper](https://arxiv.org/abs/2202.02306)
+    - [Recording (Part 1)](https://indico.ijclab.in2p3.fr/event/5999/contributions/25931/attachments/18707/25107/Pablo_Lemos_part1_LTD2022.mp4)
+    - [Recording (Part 2)](https://indico.ijclab.in2p3.fr/event/5999/contributions/25931/attachments/18707/25113/Pablo_Lemos_part2_LTD2022.mp4)
 2. Robust Simulation-Based Inference with Bayesian Neural Networks
     - [Cosmology from Home](https://www.cosmologyfromhome.com) 
     - [Files](talks/2-Cosmology_from_Home-Remote-Jun22)  
