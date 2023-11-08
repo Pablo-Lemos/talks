@@ -13,7 +13,7 @@
     - _Remote_
     - _June 2022_ 
 3. Machine LearningPowered Inference in Cosmology
-    - [AI Semminar](https://ai.ku.dk/events/ai-seminar-machine-learning-powered-inference-in-cosmology/) 
+    - [AI Seminar](https://ai.ku.dk/events/ai-seminar-machine-learning-powered-inference-in-cosmology/) 
     - [Files](talks/3-AI_Seminar-Copenhagen-Apr23)  
     - _SCIENCE AI Centre, University of Copenhagen_
     - _April 2023_
@@ -34,8 +34,13 @@
     - _Center for Computational Astrophysics, Flatiron Institute_
     - _September 2023_
     - [Recording](https://www.simonsfoundation.org/event/simons-collaboration-on-learning-the-universe-annual-meeting-2023/#:~:text=The%20Learning%20the%20Universe%20Collaboration%27s,two%20years%20of%20collaboration%20work.)
+7. Machine LearningPowered Inference in Cosmology
+    - [14th RESCEU Symposium](https://www.resceu.s.u-tokyo.ac.jp/symposium/resceu_sympo2023/index.html) 
+    - [Files](talks/7-RESCEU-Symposium-Tokyo-Oct23)  
+    - _RESCEU, the University of Tokyo_
+    - _October 2023_
 8. Sampling Methods
-    - [GFlowNet Workshop]([https://icml.cc/virtual/2023/poster/24029](http://www.gflownet.org)) 
+    - [GFlowNet Workshop](http://www.gflownet.org)
     - [Files](talks/8-GFN-Workshop-Montreal-Nov23)  
     - _Mila, Montreal_
     - _November 2023_
